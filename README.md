@@ -57,3 +57,9 @@ blinkit-sales-analysis/
 │ └── blinkit_sample_data.csv
 │
 └── README.md
+
+📌 Note
+All analysis is based on sample data and hypothetical scenarios for learning purposes. You can modify queries as needed to fit your dataset schema.
+
+📬 Contact
+For any questions or suggestions, feel free to open an issue or reach out via GitHub.
