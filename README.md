@@ -53,7 +53,7 @@ blinkit-sales-analysis/
 │ ├── 06_sales_by_outlet_location.sql
 │ └── 07_all_metrics_by_outlet_type.sql
 │
-├── data/ # BlinkIT Grocery Data
+├── data/ #  <a href="https://github.com/Sweta-purain/SQL-_Blinkit-Project/blob/main/BlinkIT%20Grocery%20Data.csv"</a>
 │ └── blinkit_sample_data.csv
 │
 └── README.md
